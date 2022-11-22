@@ -1,0 +1,38 @@
+body{
+    background-image: url(../Assets/img/Background.png);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 0px;
+}
+.background{
+    background-color: rgba(0, 0, 255, 0.7);
+    background-image: url(../Assets/img/Pattern.png);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+.box{
+    margin: 0px auto;
+    background-color: white;
+    padding: 0px;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-top: 60px;
+}
+h1{
+    padding: 15px;
+    font-size: 32px;
+    padding: 70px 15px;
+}
+.info{
+    padding: 20px;
+}
+button{
+    border: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
